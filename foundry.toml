@@ -1,0 +1,40 @@
+# All profiles inherit from default
+[profile.default]
+src = 'src'
+out = 'out'
+libs = ['lib']
+solc = "0.8.16"
+fs_permissions = [{ access = "read-write", path = "./"}]
+verbosity = 3
+ignored_error_codes = [
+    "license"
+]
+
+# Default fuzz settings below but can be increased if needed
+[fuzz]
+runs = 256
+max_test_rejects = 65536
+
+# Invariant tests revert more so good to have more runs if hardware allows
+# 10_000 runs takes about a min but unearths some good findings
+[invariant]
+runs = 256
+
+[etherscan]
+mainnet = { key = "${ETHERSCAN_API_KEY}" }
+goerli = { key = "${ETHERSCAN_API_KEY}", chain_id = "5", url = "https://api-goerli.etherscan.io/" }
+
+# set the environment variable FOUNDRY_PROFILE=testing to supress certain compiler warnings
+# that are not particularly applicable to test files.
+# make sure to run without to see the full compiler warnings before any deploys
+# full option https://book.getfoundry.sh/reference/config/solidity-compiler#ignored_error_codes
+[profile.testing]
+ignored_error_codes = [
+    "license",
+    "unreachable",        # OZ libraries
+    "code-size",          # deploy scripts are often v large
+    "func-mutability",    # lots of false positives on tests
+]
+
+
+# See more config options https://github.com/foundry-rs/foundry/tree/master/config

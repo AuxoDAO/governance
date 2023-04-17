@@ -1,0 +1,33 @@
+{
+    "windowIndex": 0,
+    "maxAmount": "1000000000000000000000",
+    "recipients": {
+        "0x1A1087Bf077f74fb21fD838a8a25Cf9Fe0818450": {
+            "windowIndex": 0,
+            "accountIndex": 0,
+            "amount": "400000000000000000000",
+            "proof": [
+                "0x61185c89c01e3cf06f5577795f5411dfcbb7d329feae8323dbfd0517bd3e890f"
+            ]
+        },
+        "0x63BCe354DBA7d6270Cb34dAA46B869892AbB3A79": {
+            "windowIndex": 0,
+            "accountIndex": 1,
+            "amount": "400000000000000000000",
+            "proof": [
+                "0x0685faae847309c9e2900ffd0f727ec0c26300b1ccc207ae1592dbbd110c2cec",
+                "0x4f521107d20365b80e5ec1efeb8e56773df9b77969db02b8e8bc5925ca3ffdb0"
+            ]
+        },
+        "0x0000000000000000000000000000000000000007": {
+            "windowIndex": 0,
+            "accountIndex": 2,
+            "amount": "200000000000000000000",
+            "proof": [
+                "0x44ad51ad30e318d8fc5e6a1aa57d5fca8b93f103e928eb2faaa1e147292396a8",
+                "0x4f521107d20365b80e5ec1efeb8e56773df9b77969db02b8e8bc5925ca3ffdb0"
+            ]
+        }
+    },
+    "root": "0x99aafea368f4ad8d1abfd7b83b33af84beb15b64a2063d828c75423667cd0048"
+}

@@ -1,0 +1,30 @@
+{
+    "windowIndex": 1,
+    "maxAmount": "800000000000000000000",
+    "recipients": {
+        "0x1A1087Bf077f74fb21fD838a8a25Cf9Fe0818450": {
+            "windowIndex": 1,
+            "amount": "400000000000000000000",
+            "proof": [
+                "0x8fdc54b8f23fd61c7d6403f4654b07c92a5e814784150965ad3b64ed42e512f4",
+                "0xa50f4170bd650b6521fde5d54402b79dcb5e6751a7c52882f37cc92d53eca0be"
+            ]
+        },
+        "0x63BCe354DBA7d6270Cb34dAA46B869892AbB3A79": {
+            "windowIndex": 1,
+            "amount": "300000000000000000000",
+            "proof": [
+                "0x839265e0cda2bc72047a74edd545abd4e9b4a772906aca0d070e59fa678309e6"
+            ]
+        },
+        "0x0000000000000000000000000000000000000007": {
+            "windowIndex": 1,
+            "amount": "100000000000000000000",
+            "proof": [
+                "0x19a163622ae8930f2217235cad1387cf4bd19b1343df2cfeee368fc0ddfd55e6",
+                "0xa50f4170bd650b6521fde5d54402b79dcb5e6751a7c52882f37cc92d53eca0be"
+            ]
+        }
+    },
+    "root": "0x074152ca48d467571c80a0ee9f73e4480c1737aefac3c2bdbaea685cb840031a"
+}

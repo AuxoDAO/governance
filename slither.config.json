@@ -1,0 +1,19 @@
+{
+    "filter_paths": "lib",
+    "solc_remaps": [
+        "ds-test/=lib/forge-std/lib/ds-test/src/",
+        "@forge-std/=lib/forge-std/src/",
+        "@oz/=lib/openzeppelin-contracts/contracts/",
+        "@oz-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/",
+        "@pproxy/=lib/pie-proxy-hardhat/contracts/",
+        "@interfaces/=src/interfaces/",
+        "@src/=src/",
+        "@lsd/=src/modules/LSD/",
+        "@governance/=src/modules/governance/",
+        "@rewards/=src/modules/rewards/",
+        "@bridge/=src/modules/vedough-bridge/",
+        "@oracles/=src/modules/reward-policies/",
+        "@mocks/=test/mocks/",
+        "@test/=test/"
+    ]
+}

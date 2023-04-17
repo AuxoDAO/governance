@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "solhint": "^3.3.7"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}

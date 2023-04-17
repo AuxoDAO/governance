@@ -1,0 +1,255 @@
+{
+    "aggregateRewards": [
+        {
+            "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "amount": "617096000000"
+        },
+        {
+            "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "amount": "460075000000000000000000"
+        },
+        {
+            "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "amount": "452037000000000000000000"
+        }
+    ],
+    "recipients": {
+        "0xbecfc9f37bdd8ca3d35b53edc72fc8ea89d3584b": {
+            "windowIndex": 0,
+            "accountIndex": 0,
+            "rewards": [
+                {
+                    "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "amount": "91520000000"
+                },
+                {
+                    "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "amount": "30411000000000000000000"
+                },
+                {
+                    "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "amount": "71415000000000000000000"
+                }
+            ],
+            "proof": [
+                "0xb3d5e58f2a073a184b47f738b5a1cdfcb943b9bef0228ce0496d919af395736a",
+                "0x201ed2504341f4c2b8c9cc75b2b937a27c68da2c79543bcbfc5c9e6cb3f4fd95",
+                "0x61fa30e9d3c8d911e130301ca2d8ada51759c6921bd18d7898a2755f66b7fc1e"
+            ]
+        },
+        "0x1b5197f0bec8c0116bbda05dc331c0db6dbe0a14": {
+            "windowIndex": 0,
+            "accountIndex": 1,
+            "rewards": [
+                {
+                    "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "amount": "28454000000"
+                },
+                {
+                    "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "amount": "49924000000000000000000"
+                },
+                {
+                    "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "amount": "75228000000000000000000"
+                }
+            ],
+            "proof": [
+                "0xc67308ac50f023f45fdf036b0861939246abfb7b5a86f8b3e40b2eccaa8c2817",
+                "0x7b51352c9e560ca9f63ddd9a62b55b4f845fc1b89ba426befc82807849de677c",
+                "0x61fa30e9d3c8d911e130301ca2d8ada51759c6921bd18d7898a2755f66b7fc1e"
+            ]
+        },
+        "0x7de88b53477f9099a5551aaac71f4c6ed40052a1": {
+            "windowIndex": 0,
+            "accountIndex": 2,
+            "rewards": [
+                {
+                    "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "amount": "73479000000"
+                },
+                {
+                    "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "amount": "48657000000000000000000"
+                },
+                {
+                    "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "amount": "81685000000000000000000"
+                }
+            ],
+            "proof": [
+                "0xb114561b181e8bb0c1c36353c7533aa9924ee46310b75a3ff7f3daae96a3fcc1",
+                "0x201ed2504341f4c2b8c9cc75b2b937a27c68da2c79543bcbfc5c9e6cb3f4fd95",
+                "0x61fa30e9d3c8d911e130301ca2d8ada51759c6921bd18d7898a2755f66b7fc1e"
+            ]
+        },
+        "0x14b6b961a0b80558e92795dd2515eb8a650cb081": {
+            "windowIndex": 0,
+            "accountIndex": 3,
+            "rewards": [
+                {
+                    "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "amount": "84962000000"
+                },
+                {
+                    "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "amount": "69687000000000000000000"
+                },
+                {
+                    "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "amount": "72000000000000000000000"
+                }
+            ],
+            "proof": [
+                "0x49b5a03c3537ede906a4dc75664c228f707f45fd2b409d6b9f672212efb25734",
+                "0x9fa5d7c5e2a620b181f8f8af0838d141417c7d5be9e532cd02db5d721863129c",
+                "0xd25d8327971bbc49cd98fd66c992f3b3c3e137cd99dbef2cc9949048399720b8",
+                "0x6decf670d6db8ac8a0c76a9949013797a8f4587ef7c027ce9694397d6392f4d5"
+            ]
+        },
+        "0x3560e140ccec5793314b38ae63e8ddaee2bad8a4": {
+            "windowIndex": 0,
+            "accountIndex": 4,
+            "rewards": [
+                {
+                    "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "amount": "75797000000"
+                },
+                {
+                    "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "amount": "82881000000000000000000"
+                },
+                {
+                    "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "amount": "4383000000000000000000"
+                }
+            ],
+            "proof": [
+                "0xd7adf63dc9daad80f765099eeaa0337a89278aaa724991d74588c44137e91dbb",
+                "0x2c7419411c2aa36248cb6f60d8c61d868e87a09eab5eaf54a4ba7f75867dd174",
+                "0x6decf670d6db8ac8a0c76a9949013797a8f4587ef7c027ce9694397d6392f4d5"
+            ]
+        },
+        "0xbba0a7d009614e392be190363925e52319a39d4d": {
+            "windowIndex": 0,
+            "accountIndex": 5,
+            "rewards": [
+                {
+                    "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "amount": "70806000000"
+                },
+                {
+                    "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "amount": "31458000000000000000000"
+                },
+                {
+                    "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "amount": "23651000000000000000000"
+                }
+            ],
+            "proof": [
+                "0xc1ef00bde30831591f8251d6f44694fead541d1bd3a9acbb1d0a49603e9b07e5",
+                "0x7b51352c9e560ca9f63ddd9a62b55b4f845fc1b89ba426befc82807849de677c",
+                "0x61fa30e9d3c8d911e130301ca2d8ada51759c6921bd18d7898a2755f66b7fc1e"
+            ]
+        },
+        "0x8bacffa2c13e8721974cff6a6281f18f559528e5": {
+            "windowIndex": 0,
+            "accountIndex": 6,
+            "rewards": [
+                {
+                    "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "amount": "44732000000"
+                },
+                {
+                    "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "amount": "87263000000000000000000"
+                },
+                {
+                    "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "amount": "10688000000000000000000"
+                }
+            ],
+            "proof": [
+                "0xad0b5b776950f80e1d084de8aaecd0987c15d7e5a29af7512f285545f00152d4",
+                "0x9fa5d7c5e2a620b181f8f8af0838d141417c7d5be9e532cd02db5d721863129c",
+                "0xd25d8327971bbc49cd98fd66c992f3b3c3e137cd99dbef2cc9949048399720b8",
+                "0x6decf670d6db8ac8a0c76a9949013797a8f4587ef7c027ce9694397d6392f4d5"
+            ]
+        },
+        "0xccc9a67f57af353388dbc8009bc6e9429aff13b7": {
+            "windowIndex": 0,
+            "accountIndex": 7,
+            "rewards": [
+                {
+                    "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "amount": "44800000000"
+                },
+                {
+                    "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "amount": "2420000000000000000000"
+                },
+                {
+                    "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "amount": "49563000000000000000000"
+                }
+            ],
+            "proof": [
+                "0x11c96f3b08bb2fc1163c58180b792b3fd0cd00f26ae1d0b563ec195085897a43",
+                "0xb26ba69e55c7d0afca7cae6b1d29e8b7641a621a0a8c2076c8a3ea7d46d01f10",
+                "0xd25d8327971bbc49cd98fd66c992f3b3c3e137cd99dbef2cc9949048399720b8",
+                "0x6decf670d6db8ac8a0c76a9949013797a8f4587ef7c027ce9694397d6392f4d5"
+            ]
+        },
+        "0xd196d93594985b26460bacfbedf7667c36a3b243": {
+            "windowIndex": 0,
+            "accountIndex": 8,
+            "rewards": [
+                {
+                    "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "amount": "66166000000"
+                },
+                {
+                    "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "amount": "48592000000000000000000"
+                },
+                {
+                    "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "amount": "49221000000000000000000"
+                }
+            ],
+            "proof": [
+                "0x09506d56621ddb273aecafd95edd2d6ea7bd9e46cb3b76cc25b6e53f7982ad31",
+                "0xb26ba69e55c7d0afca7cae6b1d29e8b7641a621a0a8c2076c8a3ea7d46d01f10",
+                "0xd25d8327971bbc49cd98fd66c992f3b3c3e137cd99dbef2cc9949048399720b8",
+                "0x6decf670d6db8ac8a0c76a9949013797a8f4587ef7c027ce9694397d6392f4d5"
+            ]
+        },
+        "0x9db96adb915e51f61e2495afb026bb9e887a364b": {
+            "windowIndex": 0,
+            "accountIndex": 9,
+            "rewards": [
+                {
+                    "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "amount": "36380000000"
+                },
+                {
+                    "token": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "amount": "8782000000000000000000"
+                },
+                {
+                    "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "amount": "14203000000000000000000"
+                }
+            ],
+            "proof": [
+                "0xdafed56e80a8eb867473b41a7ee9c25d5e47822fd952357f3c37bf636baab87e",
+                "0x2c7419411c2aa36248cb6f60d8c61d868e87a09eab5eaf54a4ba7f75867dd174",
+                "0x6decf670d6db8ac8a0c76a9949013797a8f4587ef7c027ce9694397d6392f4d5"
+            ]
+        }
+    },
+    "windowIndex": 0,
+    "chainId": 1,
+    "root": "0x374c67dfd5ab53464b86c7dcff7a4a72bae04373aae745841ea1715a3d6c0a58"
+}
